@@ -10,12 +10,12 @@ The code and circuit diagram is not provided by me.
 Make sure the print orientation is according to the provided slice file, this design requires zero support
 for ease of printing.
 
-###################################################
-              ---Printer presets---
--Slicer: Prusa Slicer
--Filament: PLA
--Infil: 15% (gyroid)
--Wall no. : 3
--Temp(Extruder): 210C
-     (Bed): 70C
--Support: None
+###################################################\n
+              ---Printer presets---\n
+-Slicer: Prusa Slicer\n
+-Filament: PLA\n
+-Infil: 15% (gyroid)\n
+-Wall no. : 3\n
+-Temp(Extruder): 210C\n
+     (Bed): 70C\n
+-Support: None\n
