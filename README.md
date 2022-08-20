@@ -11,7 +11,6 @@ The code and circuit diagram is not provided by me.
 Make sure the print orientation is according to the provided slice file, this design requires zero support
 for ease of printing.
 
-###################################################
 
 -----------------Printer presets------------------
               
