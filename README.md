@@ -11,7 +11,8 @@ Make sure the print orientation is according to the provided slice file, this de
 for ease of printing.
 
 ###################################################
-              ---Printer presets---
+
+                ---Printer presets---
               
 -Slicer: Prusa Slicer
 
