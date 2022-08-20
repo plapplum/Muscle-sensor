@@ -3,6 +3,7 @@
 An over engineered skin toucher, by pre-engineer student living with $0 income
 
 !!!PLEASE READ BEFORE PRINT!!!
+
 The sensor enclosure design is currently at version 1.3
 Please read through the printer preset before print and make sure your printer is in peak condition
 The filament I used is PLA but ABS and PETG will also do the job. This Git only contain STEP and STL file.
