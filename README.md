@@ -13,7 +13,7 @@ for ease of printing.
 
 ###################################################
 
-                ---Printer presets---
+-----------------Printer presets------------------
               
 -Slicer: Prusa Slicer
 
