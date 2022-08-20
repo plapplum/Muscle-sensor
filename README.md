@@ -12,10 +12,16 @@ for ease of printing.
 
 ###################################################
               ---Printer presets---
+              
 -Slicer: Prusa Slicer
+
 -Filament: PLA
+
 -Infil: 15% (gyroid)
+
 -Wall no. : 3
--Temp(Extruder): 210C
+
+-Temp(Extruder): 210C 
      (Bed): 70C
+     
 -Support: None
