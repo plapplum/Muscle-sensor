@@ -33,3 +33,5 @@ for ease of printing.
 ![image](https://user-images.githubusercontent.com/36785342/185821116-808e1182-dac0-42d2-9549-94dcb0ee6ecc.png)
 
 -----------------Assembly manual------------------
+
+https://youtu.be/9A0XMEn2fNw
