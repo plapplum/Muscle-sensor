@@ -30,13 +30,4 @@ for ease of printing.
 
 -----------------Bill of materials------------------
 
-Parts:	              Quantity:
-
-M3x10 BHC hex:	      4
-
-M3x5 BHC hex:	        1
-
-M3 nut:	              3
-
-6 cm Metal contact:	  2
 ![image](https://user-images.githubusercontent.com/36785342/185821116-808e1182-dac0-42d2-9549-94dcb0ee6ecc.png)
