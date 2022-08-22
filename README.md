@@ -38,3 +38,6 @@ You can use the Preorientated.stl file to print all the part, It will also show 
 -----------------Assembly manual------------------
 
 https://youtu.be/9A0XMEn2fNw
+
+The conductor contact can be use with M3 terminal lug so you don't have to solder the connection as shown in picture below.
+![Assembly_2022-Aug-22_02-16-19AM-000_CustomizedView7320027796](https://user-images.githubusercontent.com/36785342/185825947-943e1476-29e3-4bc6-9aa8-884b50683963.png)
