@@ -31,3 +31,5 @@ for ease of printing.
 -----------------Bill of materials------------------
 
 ![image](https://user-images.githubusercontent.com/36785342/185821116-808e1182-dac0-42d2-9549-94dcb0ee6ecc.png)
+
+-----------------Assembly manual------------------
