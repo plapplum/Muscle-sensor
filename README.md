@@ -8,8 +8,10 @@ The sensor enclosure design is currently at version 1.3
 Please read through the printer preset before print and make sure your printer is in peak condition
 The filament I used is PLA but ABS and PETG will also do the job. This Git only contain STEP and STL file.
 The code and circuit diagram is not provided by me.
+
 Make sure the print orientation is according to the provided slice file, this design requires zero support
 for ease of printing.
+
 You can use the Preorientated.stl file to print all the part, It will also show how parts suppose to be orientated toward the bed.
 
 
